@@ -12,4 +12,4 @@ This project replicates the hero section of the MakeMyTrip landing page using HT
 2. Open index.html in a web browser.
 
 ## Screenshot:
-![Preview](screenshothtml.png)
+![Preview](Screenshothtml.png)
